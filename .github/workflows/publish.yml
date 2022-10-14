@@ -1,0 +1,6 @@
+name: publish
+on:
+  push:
+    tags:
+      - 'app-v*'
+  workflow_dispatch:
