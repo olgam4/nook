@@ -1,1 +1,3 @@
 # blanc
+
+![/assets/blanc.png]
