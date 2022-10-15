@@ -1,7 +1,7 @@
 ![Modern Intelligent Knowledge Manager](/blanc1.png)
 
 > In French, `Avoir un blanc` literally means `Drawing a blank`.
-> With the power of Blanc, enable yourself to never forget anything.
+> With the power of Blanc, enable yourself to never forget anything ever again.
 
 ## Work in Progress
 
