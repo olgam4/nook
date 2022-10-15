@@ -1,3 +1,3 @@
 # blanc
 
-![/assets/blanc.png]
+![Modern Intelligent Knowledge Manager](/assets/blanc.png)
