@@ -7,4 +7,4 @@
 
 Blanc as a software is still wip. Some barebones features are available, but the list is sure to expand with time.
 
-To request a feature, don't hesitate to post an issue.
+To request a feature, don't hesitate to create an issue.
