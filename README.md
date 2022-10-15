@@ -1,2 +1,2 @@
 
-![Modern Intelligent Knowledge Manager](/blanc.png)
+![Modern Intelligent Knowledge Manager](/blanc1.png)
