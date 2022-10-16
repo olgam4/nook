@@ -1,7 +1,8 @@
 ![Modern Intelligent Knowledge Manager](/blanc1.png)
 
-> In French, `Avoir un blanc` literally means `Drawing a blank`.
-> With the power of Blanc, enable yourself to never forget anything ever again.
+> In French, `Ah, zut, j'arrive pas à me souvenir... J'ai un blanc.` literally means `Woops, I can't remember... I'm drawing a blank`.
+> Now, with the power of Blanc, enable yourself to never forget anything ever again. Use it to store, manage and relate your knowledge 
+> using AI to help you better understand yourself.
 
 ## Work in Progress
 
