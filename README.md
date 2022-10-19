@@ -6,6 +6,6 @@
 
 ## Work in Progress
 
-Blanc as a software is still wip. Some barebones features are available, but the list is sure to expand with time.
+Blanc as a software is still wip. Some barebones features are available, but the list is sure to be expanded with time.
 
 To request a feature, don't hesitate to create an issue.
