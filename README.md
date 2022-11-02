@@ -1,4 +1,4 @@
-![Modern Intelligent Knowledge Manager](/assets/blanc.png)
+![Modern Intelligent Knowledge Manager](/assets/nook.png)
 
 > In French, `Ah, zut, j'arrive pas à me souvenir... J'ai un blanc.` literally means `Woops, I can't remember... I'm drawing a blank`.
 > Now, with the power of Blanc, enable yourself to never forget anything ever again. Use it to store, manage and relate your knowledge 
