@@ -1,11 +1,11 @@
 ![Modern Intelligent Knowledge Manager](/assets/nook.png)
 
-> Booknooks are an amazing part to make your library really yours.
-> Now, with `Nook`, you have your own markdown-powered intelligent knowledge manager.
-> It will help you create your digital garden, take notes and let you enhance them
-> by linking them together.
+> Booknooks are an amazing part of a library: it lets you transform into something
+> that really feels yours. Now, with `Nook`, let's enhance your library with your own
+> markdown-powered intelligent knowledge manager.
+> It will help you create your digital garden, take notes and link them together.
 
-![Blanc Screenshot](/assets/screenshot.png)
+![Nook Screenshot](/assets/screenshot.png)
 
 ## Work in Progress
 
